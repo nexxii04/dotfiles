@@ -1,0 +1,14 @@
+{
+  "extras": [
+    "lazyvim.plugins.extras.ai.codeium",
+    "lazyvim.plugins.extras.lang.go",
+    "lazyvim.plugins.extras.lang.php",
+    "lazyvim.plugins.extras.lang.sql",
+    "lazyvim.plugins.extras.lang.toml",
+    "lazyvim.plugins.extras.util.mini-hipatterns"
+  ],
+  "news": {
+    "NEWS.md": "7429"
+  },
+  "version": 7
+}
